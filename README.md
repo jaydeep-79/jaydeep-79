@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jaydeep-79
-- 👀 I’m interested in Programming
+- 👋 Hi, I’m @jaydeep-7
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Java and other Projects
-- 📫 How to reach me jaydeepsinh7rathod@gmail.com
+- 📫 How to reach me  jaydeepsinh7rathod@gmail.com
 - My twitter @JDR3615
 
 <!---
